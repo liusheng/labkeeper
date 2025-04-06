@@ -49,6 +49,7 @@ Steps to deploy a CI system by this tool
 
 5. Update the log server `fqdn` and host key(`secrets.yaml`) in the jobs config repo (`openlab-zuul-jobs`).
 
+   aaa
 TODO items
 ----------
 
